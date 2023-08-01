@@ -20,7 +20,7 @@
     "@typescript-eslint/eslint-plugin": "^3.9.1",
     "@vue/compiler-sfc": "^3.0.0-rc.5",
     "eslint": "^7.7.0",
-    "pnpm": "^5.5.2",
+    "pnpm": "^7.33.4",
     "tailwindcss": "^1.7.1",
     "tailwindcss-dark-mode": "^1.1.6",
     "typescript": "^3.9.7",
